@@ -4,6 +4,7 @@
   - [Accelerating the Data Analysis Process](#accelerating-the-data-analysis-process)
   - [Notes](#notes)
     - [1. Exploratory Data Analysis](#1-exploratory-data-analysis)
+
 ## Accelerating the Data Analysis Process
 This is a project on the exploratory analysis of data from NASAs Exoplanet Archive. This repository was made to document what I learnt on how to perform an EDA on different kinds of data with this dataset as an example.
 
